@@ -18,5 +18,5 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! I am Moreno D'Incà currently a Ph.D. Student at the [MHUG](https://mhug.disi.unitn.it/#/) research group of the [University of Trento](https://www.unitn.it/) (Italy) where I am supervised by Prof. [Nicu Sebe](https://disi.unitn.it/~sebe/).
 
-My research interests lie in applying deep learning techniques for image generation and model fairness.
+My research interests lie in image generation and model fairness.
 
