@@ -16,7 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I am Moreno D'Incà a Ph.D. student at the [Multimedia and Human Understanding Group](https://mhug.disi.unitn.it/#/) - [University of Trento](https://www.unitn.it/) (Italy), under the supervision of Prof. [Nicu Sebe](https://disi.unitn.it/~sebe/). My research focuses on generative AI, particularly in Text-to-Image generative models. 
+Hi there! I am Moreno D'Incà a Ph.D. student at the [Multimedia and Human Understanding Group](https://mhug.disi.unitn.it/#/) - [University of Trento](https://www.unitn.it/) (Italy), under the supervision of Prof. [Nicu Sebe](https://disi.unitn.it/~sebe/). My research focuses on safety and fairness for Multimodal LLMs and Generative AI.
 
-Before, I earned my Master’s degree in Artificial Intelligence from the University of Trento (Italy) after completing my Master’s thesis at the Queen Mary University of London, an opportunity provided by the AI4Media Junior Fellows Exchange Program.
+In summer 2025, I have joined Amazon AGI in Los Angeles for a six-months internship working on local search tasks within the Amazon Alexa team.
+
+Previously, I earned my Master’s degree in Artificial Intelligence from the University of Trento (Italy) after completing my Master’s thesis at the Queen Mary University of London, an opportunity provided by the AI4Media Junior Fellows Exchange Program.
 

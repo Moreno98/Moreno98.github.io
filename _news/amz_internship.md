@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined Amazon AGI in Los Angeles for an internship 🚀
+I have joined Amazon AGI in Los Angeles as Applied Scientist Intern 🚀
