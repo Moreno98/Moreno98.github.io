@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -21,4 +21,3 @@ Hi there! I am Moreno D'Incà a Ph.D. student at the [Multimedia and Human Under
 In summer 2025, I have joined Amazon AGI in Los Angeles for a six-months internship working on local search tasks within the Amazon Alexa team.
 
 Previously, I earned my Master’s degree in Artificial Intelligence from the University of Trento (Italy) after completing my Master’s thesis at the Queen Mary University of London, an opportunity provided by the AI4Media Junior Fellows Exchange Program.
-
