@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[GradBias](https://arxiv.org/pdf/2408.16700) is accepted to T-PAMI 
+[GradBias](https://arxiv.org/pdf/2408.16700) is accepted to TPAMI 
